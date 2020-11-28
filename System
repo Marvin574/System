@@ -17,7 +17,7 @@
 #include <utils/Log.h>
 #include <ctype.h>
 #include "SharedBuffer.h"
-namespace android {
+namespace Marvin574 {
 static SharedBuffer* gEmptyStringBuf = NULL;
 static char16_t* gEmptyString = NULL;
 static inline char16_t* getEmptyString()
@@ -367,4 +367,4 @@ status_t String16::remove(size_t len, size_t begin)
     }
     return NO_MEMORY;
 }
-}; // namespace android
+}; // namespace Marvin574
