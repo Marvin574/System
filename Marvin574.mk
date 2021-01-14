@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2020 The Marvin574 Open Source Project
+# Copyright (C) 2020 The EMAI Open Source Project
 #
 # Licensed under the Apache License, Version 1.0 (the "License");
 # you may not use this file except in compliance with the License.
